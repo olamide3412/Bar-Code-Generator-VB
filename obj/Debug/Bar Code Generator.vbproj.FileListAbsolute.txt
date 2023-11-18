@@ -1,0 +1,17 @@
+C:\Users\Ola\source\repos\Bar Code Generator\bin\Debug\Bar Code Generator.exe.config
+C:\Users\Ola\source\repos\Bar Code Generator\bin\Debug\Bar Code Generator.exe
+C:\Users\Ola\source\repos\Bar Code Generator\bin\Debug\Bar Code Generator.pdb
+C:\Users\Ola\source\repos\Bar Code Generator\bin\Debug\Bar Code Generator.xml
+C:\Users\Ola\source\repos\Bar Code Generator\bin\Debug\zxing.dll
+C:\Users\Ola\source\repos\Bar Code Generator\bin\Debug\zxing.presentation.dll
+C:\Users\Ola\source\repos\Bar Code Generator\bin\Debug\zxing.xml
+C:\Users\Ola\source\repos\Bar Code Generator\bin\Debug\zxing.presentation.xml
+C:\Users\Ola\source\repos\Bar Code Generator\obj\Debug\Bar Code Generator.vbproj.AssemblyReference.cache
+C:\Users\Ola\source\repos\Bar Code Generator\obj\Debug\Bar_Code_Generator.Form1.resources
+C:\Users\Ola\source\repos\Bar Code Generator\obj\Debug\Bar_Code_Generator.Resources.resources
+C:\Users\Ola\source\repos\Bar Code Generator\obj\Debug\Bar Code Generator.vbproj.GenerateResource.cache
+C:\Users\Ola\source\repos\Bar Code Generator\obj\Debug\Bar Code Generator.vbproj.CoreCompileInputs.cache
+C:\Users\Ola\source\repos\Bar Code Generator\obj\Debug\Bar Code Generator.vbproj.CopyComplete
+C:\Users\Ola\source\repos\Bar Code Generator\obj\Debug\Bar Code Generator.exe
+C:\Users\Ola\source\repos\Bar Code Generator\obj\Debug\Bar Code Generator.xml
+C:\Users\Ola\source\repos\Bar Code Generator\obj\Debug\Bar Code Generator.pdb
